@@ -32,4 +32,4 @@ const myfunction = function(){
 
 }
 
-console.log(typeof anotherIdid);
+console.log(typeof anotherId);
